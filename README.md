@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Software Development and Process Automation.
 
-- 🌱 I’m currently learning Data Science and Engineering, Biomedical Devices for Pulmonary Rehabilitation.
+- 🌱 I’m currently learning Data Science and Engineering, development of Biomedical Devices for Pulmonary Rehabilitation.
 
 <h2> Skills </h2>
 <a href= https://github.com/udimay?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
